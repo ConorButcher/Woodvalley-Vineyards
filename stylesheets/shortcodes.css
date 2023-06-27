@@ -34,7 +34,7 @@
 }
 
 .flat-slider .tp-caption.best a.text-white:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-slider .tp-caption.text-wizym {
@@ -56,7 +56,7 @@
     font-size: 14px;
     line-height: 30px;
     color: #fff;
-    border: 1px solid #c02323;
+    border: 1px solid #192636;
     display: inline-block;
     letter-spacing: 1.3px;
 }
@@ -68,7 +68,7 @@
     font-size: 14px;
     line-height: 30px;
     color: #fff;
-    border: 1px solid #c02323;
+    border: 1px solid #192636;
     display: inline-block;
     letter-spacing: 1.3px;
 }
@@ -93,7 +93,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: #c02323;
+  background: #192636;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 50%;
@@ -121,7 +121,7 @@
 .flat-textbox .textbox-title a {
     font-family: Rouge Script;
     font-size: 30px;
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-textbox .textbox-title a:hover {
@@ -139,7 +139,7 @@
 }
 
 .flat-textbox .textbox-main a:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-textbox p {
@@ -263,7 +263,7 @@
 .title-section h3.our-product-title a {
     font-family: Rouge Script;
     font-size: 30px;
-    color: #c02323;
+    color: #192636;
 }
 
 .title-section h3.our-product-title a:hover {
@@ -279,7 +279,7 @@
 }
 
 .title-section h1.our-product-main a:hover {
-    color: #c02323;
+    color: #192636;
 } 
 
 .title-section .our-product-image {
@@ -405,11 +405,11 @@
 }
 
 .product .product-item .new:hover {
-    background-color: #c02323;
+    background-color: #192636;
 }
 
 .product-item .sale {
-    background-color: #f63440;
+    background-color: #192636;
 }
 
 .product-item .product-info {
@@ -427,7 +427,7 @@
     font-family: Libre Baskerville;
     font-size: 14px;
     line-height: 34px;
-    color: #c02323;
+    color: #192636;
     text-decoration: none;
 }
 
@@ -459,8 +459,8 @@
 }
 
 .product .product-item .add-cart a:hover {
-    background-color: #c02323;
-    border: 1px solid #c02323;
+    background-color: #192636;
+    border: 1px solid #192636;
 }
 
 .product .product-item .add-cart a:hover i {
@@ -524,7 +524,7 @@
 }
 
 .flat-products.style1 .latest-title h3 a:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-products.style1 .latest-title:after {
@@ -577,7 +577,7 @@
 }
 
 .flat-products.style1 .flat-next a:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-products.style1 .post-top {
@@ -612,14 +612,14 @@
 }
 
 .flat-products.style1 .content-post .post-title span a:hover {
-    color:#c02323;
+    color:#192636;
 }
 
 .flat-products.style1 .content-post .post-dolar span {
     font-family: Libre Baskerville;
     font-size: 14px;
     line-height: 36px;
-    color: #c02323;
+    color: #192636;
     margin-top: 5px;
 }
 
@@ -686,8 +686,8 @@
     font-family: Marcellus;
     font-size: 14px;
     line-height: 30px;
-    color: #c02323;
-    border: 1px solid #c02323;
+    color: #192636;
+    border: 1px solid #192636;
     display: inline-block;
     letter-spacing: 1.3px;
 }
@@ -712,7 +712,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: #c02323;
+  background: #192636;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 50%;
@@ -763,10 +763,10 @@
   transition-duration: 0.3s;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
-  border: 1px solid #c02323;
+  border: 1px solid #192636;
 }
 .hvr-shutter-out-horizontall:hover, .hvr-shutter-out-horizontall:focus, .hvr-shutter-out-horizontall:active {
-  color: #c02323;
+  color: #192636;
 }
 .hvr-shutter-out-horizontall:hover:before, .hvr-shutter-out-horizontall:focus:before, .hvr-shutter-out-horizontall:active:before {
   -webkit-transform: scaleX(1);
@@ -847,7 +847,7 @@
     font-family: Marcellus;
     font-size: 36px;
     line-height: 30px;
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-counter .wrap-bg .name-count {
@@ -889,7 +889,7 @@
 }
 
 .flat-carousel-box .team-border:hover h2 a {
-  color: #c02323;
+  color: #192636;
 }
 
 .flat-carousel-box .team-title {
@@ -905,7 +905,7 @@
     font-family: Marcellus;
     font-size: 36px;
     line-height: 30px;
-    color: #c02323;
+    color: #192636;
 }
 
 .flat-carousel-box .team-title span {
@@ -987,7 +987,7 @@
    font-family: Marcellus;
    font-size: 24px;
    line-height: 30px;
-   color: #c02323;
+   color: #192636;
 }
 
 .testimonial p {
@@ -1072,7 +1072,7 @@
 
 .flat-filter li a:hover,
 .flat-filter li.active a {
-    color: #c02323;
+    color: #192636;
 }
 
   /* boxed */
@@ -1119,7 +1119,7 @@
 }
 
 .top-bar.style4 .top-bar-hotline span a:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 .top-bar.style4 .top-bar-user {
@@ -1156,7 +1156,7 @@
 }
 
 .top-bar.style4 .top-bar-user ul li a:hover {
-    color: #c02323;
+    color: #192636;
 }
 
   /* header-style4*/
@@ -1224,13 +1224,13 @@ header.style4 .nav-wrap ul li a {
 
 header.style4 .nav-wrap ul li a:hover,
 header.style4 .nav-wrap ul > li.a > a {
-    color: #c02323;
+    color: #192636;
 }
 
 header.style4 .nav-wrap ul.sub-menu li a:hover,
 header.style4 .nav-wrap ul.sub-menu li.active a {
     text-decoration: underline;
-    color: #c02323;
+    color: #192636;
 }
 
 header.style4 .nav-wrap > ul > li {
@@ -1268,7 +1268,7 @@ header.style4 .nav-wrap ul li:hover > ul.sub-menu {
     filter: alpha(opacity=100);
     opacity: 1;
     visibility: visible;
-    border-top: 2px solid #c02323;
+    border-top: 2px solid #192636;
 }
 
 header.style4 .nav-wrap ul.sub-menu li ul {
@@ -1291,7 +1291,7 @@ header.style4 .nav-wrap ul.sub-menu > li > a {
 }
 
 header.style4 .nav-wrap ul.sub-menu > li > a:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 header.style4 .review {
@@ -1314,7 +1314,7 @@ header.style4 .review a i {
 }
 
 header.style4 .review a i:hover {
-    color: #c02323;
+    color: #192636;
 }
 
 header.style4  #site-header .header-search-form.show {
@@ -1359,7 +1359,7 @@ header.style4 #site-header .header-search-form {
 }
 
 header.style4 .header-search-submit{
-    background-color: #c02323;
+    background-color: #192636;
     color: #fff;
 }
 
@@ -1404,7 +1404,7 @@ header.style4 .header-search-submit:hover{
 
 .products-menu ul li a:hover,
 .products-menu ul li.active a {
-    color: #c02323;
+    color: #192636;
 }
 
 /* preload*/
@@ -1439,7 +1439,7 @@ header.style4 .header-search-submit:hover{
     -webkit-animation: preloader-wave 1.6s linear infinite;
     animation: preloader-wave 1.6s linear infinite; 
     border-radius: 50%;
-    background: #c02323;
+    background: #192636;
 }
 
 .loader:after {

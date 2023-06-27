@@ -29,7 +29,7 @@ ul.portfolio-filter li.active a,
 .widget.widget-recent-news ul li .post_meta,
 .widget.widget-recent-news ul li .post_meta:before,
 .comments-area ol.comment-list article .reply .comment-reply-link {
-	color: #f05323;
+	color: #192636;
 }
 
 .flat-button.bg-theme:hover {
@@ -49,7 +49,7 @@ ul.flat-list.style2 li:before,
 #video-play,
 .flat-button.radius,
 article .more-link a {
-	border-color: #f05323;
+	border-color: #192636;
 }
 
 textarea:focus,
@@ -68,7 +68,7 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .widget.widget_search .search-form input[type="search"]:focus {
-	border-color: #f05323;
+	border-color: #192636;
 }
 
 /* Background Color
@@ -107,9 +107,9 @@ article .more-link a,
 .flat-analysis a:hover,
 #mainnav > ul > li > a:after,
 #mainnav > ul > li > a:hover:after {
-	background-color: #f05323;
+	background-color: #192636;
 }
 
 .loader {
-	border-left: 1em solid #f05323;
+	border-left: 1em solid #192636;
 }

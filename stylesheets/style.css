@@ -975,10 +975,6 @@ header.style1 input {
    color: #a6a6a6;
 }
 
-.page-title .breadcrumbs ul li.blog a:hover {
-	color: #192636;
-}
-
 .page-title .breadcrumbs ul li.blog2 a {
    text-decoration: none;
    font-family: Marcellus;
@@ -1800,7 +1796,7 @@ footer.style1 .footer-widgets .widget-text span {
 }
 
 .main-blog-detail .content-post .social-share  ul li.google {
-    background-color: #f43535;
+    background-color: #192636;
     border-radius: 30px;
 }
 
@@ -2095,7 +2091,7 @@ footer.style1 .footer-widgets .widget-text span {
     font-family: Libre Baskerville;
     font-size: 12px;
     line-height: 36px;
-    color: #b5244d;
+    color: #192636;
 }
 
 .main-blog-detail .post-bottom .post-comment .comment-meta a:hover {
@@ -2872,7 +2868,7 @@ footer.style1 .footer-widgets .widget-text span {
     font-family: Libre Baskerville;
     font-size: 12px;
     line-height: 36px;
-    color: #b5244d;
+    color: #192636;
 }
 
 .main-blog-details  .post-bottom .post-comment .comment-meta a:hover {
@@ -5397,7 +5393,7 @@ footer.style3 .footer-widgets .widget-text span {
 }
 
 .product-item .sale {
-    background-color: #f63440;
+    background-color: #192636;
 }
 
 .flat-our-product.style4 .product-item .product-info {
@@ -6871,21 +6867,13 @@ transition: all 1s ease;
 .main-shop-detail .comment-meta a {
     font-family: Libre Baskerville;
     font-size: 12px;
-    color: #b5244d;
-}
-
-.main-shop-detail .comment-meta a:hover {
-    color: #191919;
+    color: #192636;
 }
 
 .main-shop-detail .comment-title a {
     font-family: Marcellus;
     font-size: 18px;
     color: #191919;
-}
-
-.main-shop-detail .comment-title a:hover {
-    color: #192636;
 }
 
 .main-shop-detail .comment-text {
@@ -6896,10 +6884,6 @@ transition: all 1s ease;
     font-family: Libre Baskerville;
     font-size: 14px;
     color: #595959;
-}
-
-.main-shop-detail .comment-text a:hover {
-    color: #192636;
 }
 
 .main-shop-detail .comment-respond {
@@ -7231,7 +7215,7 @@ transition: all 1s ease;
 .main-details-slidebar .comment-meta a {
     font-family: Libre Baskerville;
     font-size: 12px;
-    color: #b5244d;
+    color: #192636;
 }
 
 .main-details-slidebar .comment-meta a:hover {
